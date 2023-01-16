@@ -1,0 +1,50 @@
+斯坦福 机器学习 第一课
+http://v.163.com/movie/2008/1/M/C/M6SGF6VB4_M6SGHFBMC.html
+网上可以下到笔记
+
+
+supervised learning 监督学习
+
+regression problem 回归问题   处理的是连续的问题
+
+classification problem 分类问题  处理的问题是离散的而不是连续的
+
+回归问题和分类问题的区别应该在于  回归问题的结果是连续的，分类问题的结果是离散的。
+
+discreet value  离散值
+support vector machines 支持向量机  用来处理分类算法中输入的维度不单一的情况（甚至输入维度为无穷）
+learning theory  学习理论 
+learning algorithms 学习算法
+unsupervised learning 无监督学习
+斯坦福 机器学习第二课：gradient descent  梯度下降
+第二课从开车引入梯度下降
+linear regression 线性回归
+ Neural Network 神经网络
+gradient descent 梯度下降 监督学习的一种算法，用来拟合的算法
+normal equations
+ linear algebra 线性代数 原谅我英语不太好
+superscript上标 
+exponentiation 指数
+ training set 训练集合
+ training example 训练样本
+hypothesis 假设，用来表示学习算法的输出，叫我们不要太纠结H的意思，因为这只是历史的惯例
+LMS algorithm    “least mean squares” 最小二乘法算法
+batch gradient descent 批量梯度下降，因为每次都会计算 最小拟合的方差，所以运算慢
+constantly gradient descent  字幕组翻译成“随机梯度下降”  我怎么觉得是“常量梯度下降” 也就是梯度下降的运算次数不变，一般比批量梯度下降速度快，但是通常不是那么准确
+ iterative algorithm 迭代算法
+partial derivative 偏导数
+contour 等高线
+quadratic function 二元函数
+
+斯坦福 机器学习第三课：欠拟合与过拟合的概念
+ locally weighted regression局部加权回归
+underfitting欠拟合 
+overfitting 过拟合
+non-parametric learning algorithms 无参数学习算法
+parametric learning algorithm 参数学习算法
+
+
+
+关于深度学习
+BP算法
+多层感知机
